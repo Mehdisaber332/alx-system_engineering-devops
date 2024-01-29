@@ -43,5 +43,5 @@ frontend hordun-frontend
 
 backend hordun-backend
 	balance roundrobin
-	server 350079-web-01 54.175.122.179:80 check
-	server 350079-web-02 100.26.230.33:80 check
+	server 350079-web-01 100.25.46.204 check
+	server 350079-web-02 107.23.109.220 check
